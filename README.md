@@ -1,0 +1,2 @@
+# Benchmarking_Next_Generation_YOLO_Architectures_for_Multi_Platform_Forest_Fire_Recognition
+Benchmarking Next Generation YOLO Architectures for Multi Platform Forest Fire Recognition
